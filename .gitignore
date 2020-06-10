@@ -1,0 +1,10 @@
+bin
+obj
+node_modules
+.vs
+.vscode
+.DS_Store
+RunnerEvents.sln
+*.db
+Migrations
+appsettings.json
